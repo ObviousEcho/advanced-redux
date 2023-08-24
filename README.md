@@ -1,6 +1,6 @@
 # Advanced Redux
 
-![Screenshot of website](./public/cart.png)
+![Screenshot of website](/cart.png)
 
 This project is a demonstration of Redux concepts. Utilizing a global store to manage state amongst all components which utilize state. Simple in design and concept, users can add items to, and remove items from a shopping cart.
 
